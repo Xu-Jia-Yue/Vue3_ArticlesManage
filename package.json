@@ -11,6 +11,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "@vueup/vue-quill": "^1.2.0",
     "axios": "^1.7.7",
     "dayjs": "^1.11.13",
     "echarts": "^5.5.1",
@@ -22,6 +23,7 @@
     "vue": "^3.4.29",
     "vue-animate-number": "^0.4.2",
     "vue-number-animation": "^2.0.2",
+    "vue-quill": "^1.5.1",
     "vue-router": "^4.3.3"
   },
   "devDependencies": {
