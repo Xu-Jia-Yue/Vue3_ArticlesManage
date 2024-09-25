@@ -1,12 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>
-    <h2>layout</h2>
-    <div>
-      <RouterView />
-    </div>
-  </div>
+  <div>用户信息</div>
 </template>
 
 <style lang="scss" scoped></style>

@@ -1,12 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>
-    <h2>layout</h2>
-    <div>
-      <RouterView />
-    </div>
-  </div>
+  <div>重置密码</div>
 </template>
 
 <style lang="scss" scoped></style>
